@@ -1,0 +1,8 @@
+def mul(p1,p2):
+    return p1 * p2
+
+result_int = mul(5, 5)
+result_str = mul('a' , 5)
+
+print(result_int)
+print(result_str)
